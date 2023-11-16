@@ -25,14 +25,15 @@ Um amante de tecnologia, desde criança, que decidiu seguir esse interesse conti
 
 ### Estudando
 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight)
 
-![Dev.Guih() GitHub stats](https://github-readme-stats.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight)
+![Dev.Guih() GitHub stats](https://github-readme-stats-guicamara.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight)
 
 
 ## Alguns projetos
