@@ -1,6 +1,8 @@
 # Olá! Eu sou o Guilherme Câmara 😃 👋
 
-Um amante de tecnologia, desde criança, que decidiu seguir esse interesse continuo na vida adulta, desenvolvendo aplicações para facilitar/mudar vidas através da tecnologia 🧑‍💻 🚀.
+Um amante de tecnologia, desde criança, que decidiu seguir esse interesse continuo na vida adulta, desenvolvendo aplicações para facilitar/mudar vidas através da tecnologia 🧑‍💻 🚀.  
+Cursando Análise e desenvolvimento de sistemas. 🎓 📚 🖥️  
+Estagiário na Presidência da República. 🇧🇷 🏛️
 
 
 ## Contanto
