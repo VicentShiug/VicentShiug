@@ -1,8 +1,6 @@
 # Olá! Eu sou o Guilherme Câmara 😃 👋
 
-Um amante de tecnologia, desde criança, que decidiu seguir esse interesse continuo na vida adulta, desenvolvendo aplicações para facilitar/mudar vidas através da tecnologia 🧑‍💻 🚀.  
-Cursando Análise e desenvolvimento de sistemas. 🎓 📚 🖥️  
-Estagiário na Presidência da República. 🇧🇷 🏛️
+Um amante de tecnologia, desde criança, que decidiu seguir esse interesse continuo na vida adulta, desenvolvendo aplicações para facilitar/mudar vidas através da tecnologia 🧑‍💻 🚀.
 
 
 ## Contanto
@@ -33,9 +31,20 @@ Estagiário na Presidência da República. 🇧🇷 🏛️
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
 
-![Dev.Guih() GitHub stats](https://github-readme-stats-guicamara.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight)
+    </td>
+    <td>
+
+  ![Dev.Guih() GitHub stats](https://github-readme-stats-guicamara.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight)
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## Alguns projetos
@@ -47,3 +56,5 @@ Estagiário na Presidência da República. 🇧🇷 🏛️
 - [Gerador de convite](https://bora-codar-33-eta.vercel.app/)
 
 - [Clone twitter](https://bejewelled-paletas-e471fb.netlify.app/)
+
+
