@@ -31,19 +31,10 @@ Um amante de tecnologia, desde criança, que decidiu seguir esse interesse conti
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-<table>
-  <tr>
-    <td>
-
-  ![Top Langs](https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight)
-    </td>
-    <td>
-
-  ![Dev.Guih() GitHub stats](https://github-readme-stats-guicamara.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight)
-    </td>
-  </tr>
-</table>
-
+<div>
+  <img height="180em" src="https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-guicamara.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight"/>
+</div>
 
 
 
