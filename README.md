@@ -40,7 +40,7 @@ Um amante de tecnologia, desde criança, que decidiu seguir esse interesse conti
 
 ## Alguns projetos
 
-- [Book-Case](https://book-case-guicamara.vercel.app/login) (Meu projeto pessoal mais atual)
+- [Book-Case](https://book-case-guicamara.vercel.app/) (Meu projeto pessoal mais atual)
   
 - [Shopping-cart](https://shopping-cart-guih-camara.vercel.app/)
 
