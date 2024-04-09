@@ -32,8 +32,8 @@ Um amante de tecnologia, desde criança, que decidiu seguir esse interesse conti
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-guilherme-cmaras-projects.vercel.app/api/top-langs/?username=VicentShiug&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-guilherme-cmaras-projects.vercel.app/api?username=VicentShiug&show_icons=true&theme=tokyonight"/>
 </div>
 
 
